@@ -1,0 +1,67 @@
+.class1{
+    background-color:tomato;
+    width:300px;
+    padding:20px;
+    float:left
+}
+.class1 h1{
+    color: green;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.class1 img{
+    width:100%
+}
+.class1 button{
+    background-color: greenyellow;
+    color: red;
+    padding: 20px;
+    font-size: 20px;
+}
+.class2{
+    background-color:tomato;
+    width:300px;
+    padding:20px;
+    float:left;
+    margin-left:10px
+}
+.class2 h1{
+    color: green;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.class2 img{
+    width:100%
+}
+.class2 button{
+    background-color: greenyellow;
+    color: red;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.class3{
+    background-color:tomato;
+    width:300px;
+    padding:20px;
+    float:left;
+    margin-left:10px
+}
+.class3 h1{
+    color: green;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.class3 img{
+    width:100%
+}
+.class3 button{
+    background-color: greenyellow;
+    color: red;
+    padding: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
